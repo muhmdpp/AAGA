@@ -8,8 +8,8 @@ function App() {
   return (
     <>
     
-     {/* <Splash/> */}
-     <NavBar/>
+     <Splash/>
+     {/* <NavBar/> */}
 
      
      </>
