@@ -19,6 +19,7 @@ function App() {
       <Link to='news-info'>News Info</Link>
     </div>
     <Routes Routes>
+      
       <Route path='/splash' element={<Splash/>} />
       <Route path='/navbar' element={<NavBar/>} />
       <Route path='/news-page' element={<News/>} />
